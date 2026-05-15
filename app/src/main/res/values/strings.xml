@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZenFlow</string>
+    <string name="widget_title">ZenFlow</string>
+    <string name="widget_description">Track your tasks and productivity</string>
+    <string name="notification_channel_tasks">Task Reminders</string>
+    <string name="notification_channel_focus">Focus Timer</string>
+    <string name="notification_channel_daily">Daily Summary</string>
+</resources>
